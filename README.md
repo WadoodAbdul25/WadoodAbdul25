@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WadoodAbdul25
-- 👀 I’m interested in Backend Development
+- 👀 I’m a Web3 and Ethereum BlockChain Developer
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on building Websites
 - 📫 How to reach me -> Email : wadoodabdul870@gmail.com
