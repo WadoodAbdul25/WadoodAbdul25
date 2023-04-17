@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WadoodAbdul25
-- 👀 I’m a Web3 and Ethereum BlockChain Developer
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on building Websites
+- 👀 I’m a Full-Stack Web Developer - Django|React.js|Node.js|OracleSQL|MongoDB
+- 🌱 I’m currently a sophomore, pursuing bachelor's in computer science
+- 💞️ I’m actively looking for Software development internships
 - 📫 How to reach me -> Email : wadoodabdul870@gmail.com
 
 <!---
