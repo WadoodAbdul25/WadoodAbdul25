@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>    👋 Hi, I’m @WadoodAbdul25<br>    👀 I’m a Full-Stack Web Developer - Django|React.js|Node.js|OracleSQL|MongoDB<br>    🌱 I’m currently a sophomore, pursuing bachelor's in computer science<br>    💞️ I’m actively looking for Software development internships<br>    📫 How to reach me -> Email : wadoodabdul870@gmail.com<br><br>
+<br>    👋 Hi, I’m @WadoodAbdul25<br>    👀 I’m a Full-Stack Web Developer - Django|React.js|Node.js|OracleSQL|MongoDB<br>    🌱 I’m currently a sophomore, pursuing bachelor's in computer science<br>    💞️ I’m actively looking for Software development internships<br>    📫 How to reach me -> Email : wadoodabdul2505@gmail.com<br><br>
 
 
 ## 🌐 Socials:
